@@ -6,8 +6,5 @@ if twinkies < 100:
 elif twinkies > 500:
     print("You have too many. Time to sell a few to fat people.")
 
-elif twinkies == 420:
-    print("BLAZE IT")
-
 else:
     print("You've got plenty.")
