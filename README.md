@@ -1,6 +1,7 @@
-Python
+Python Projects
 =====
 
-Python Projects
-
-via Python for Kids
+Python for Kids
+-----
+-Hello World
+-Something Else
