@@ -1,4 +1,4 @@
-Pyton
+Python
 =====
 
 Python Projects
