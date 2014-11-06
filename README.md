@@ -1,7 +1,7 @@
 Python Projects
 =====
 
-Python for Kids
+Python for Kids (11/6/2014 - XX/XX/XXXX)
 -----
--Hello World
--Something Else
+-Python.for.Kids PDF via TPB
+-Hello World.py
